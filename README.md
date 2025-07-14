@@ -328,7 +328,6 @@ Contributions welcome!
 ## 📞 Support
 
 - 🐛 [Report Issues](https://github.com/MarinDushku/Magnetic-React-Background/issues)
-- 💬 [Discussions](https://github.com/MarinDushku/Magnetic-React-Background/discussions)
 
 ---
 
