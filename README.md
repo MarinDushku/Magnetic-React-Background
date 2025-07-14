@@ -2,8 +2,6 @@
 
 A beautiful, interactive React component that creates magnetic particle animations following your cursor with realistic physics. Perfect for modern websites, portfolios, and creative projects.
 
-![Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=Interactive+Magnetic+Particles)
-
 ## ✨ Features
 
 - **🧲 Magnetic Physics**: Particles form chains and follow your cursor like real magnets
@@ -325,13 +323,12 @@ MIT License - feel free to use in personal and commercial projects.
 
 ## 🤝 Contributing
 
-Contributions welcome! Please read our [Contributing Guide](CONTRIBUTING.md) first.
+Contributions welcome! 
 
 ## 📞 Support
 
 - 🐛 [Report Issues](https://github.com/MarinDushku/Magnetic-React-Background/issues)
 - 💬 [Discussions](https://github.com/MarinDushku/Magnetic-React-Background/discussions)
-- 📧 Email: marin.dushku@example.com
 
 ---
 
